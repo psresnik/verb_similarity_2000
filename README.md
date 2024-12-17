@@ -15,3 +15,4 @@ These data are from:
 }
 ```
 
+They are now part of the punuy-datasets repository, https://github.com/andrefs/punuy-datasets/, which is a collection of quantitative datasets, gathered from the academic literature, for the evaluation of semantic measures between concepts or entities. 
